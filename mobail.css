@@ -1,0 +1,1145 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Yekan.ttf);
+  }
+  body{
+    font-family: myFirstFont;
+  }
+
+.div{
+    position: relative;
+    top: 60px;
+    right: 40px;
+}
+
+.div1{
+    display: flex;
+}
+
+.img1{
+    position: relative;
+    right: 70px;
+}
+.img2{
+    position: relative;
+    right: 140px;
+}
+
+.div2{
+    position: relative;
+    top: 60px;
+    right: 40px;
+}
+.ul{
+    display:flex;
+}
+
+.li{
+    margin:20px ;
+}
+
+.div2 :nth-child(1){
+    position: relative;
+    left: 14px;
+}
+.div2 :nth-child(2){
+    position: relative;
+    left: 7px;
+}
+
+.divinput{
+    width: 500px;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+
+.div3{
+    position: relative;
+    right: 700px;
+    bottom: 10px;
+}
+.input{
+    
+    padding: 3px 400px ;
+    padding-top: 10px;
+}
+
+.btn{
+    width: 40px;
+    height: 42px;
+    background-color: rgb(255, 111, 135);
+    position: relative;
+    bottom: 39px;
+    border-radius: 5px;
+    left: 30px;
+}
+
+.img3{
+    padding: 10px;
+}
+
+.div4{
+    position: relative;
+    right: 1500px;
+    bottom:70px ;
+}
+
+.hr{
+   position: relative;
+   bottom: 25px;
+}
+.ul1{
+    display: flex;
+}
+
+.li1{
+    margin: 28px;
+}
+.div5{
+    position: relative;
+    bottom: 30px;
+}
+
+.hr1{
+    position: relative;
+    bottom: 650px;
+}
+
+.div7{
+    position: relative;
+    right: 1360px;
+    bottom: 600px;
+}
+.h1{
+    font-size: 35px;
+}
+.img5{
+    position: relative;
+    bottom: 38px;
+    left: 30px;
+}
+
+.div8{
+position: relative;
+left: 50px;
+bottom: 600px;
+display: flex;
+text-align: center;
+justify-content: center;
+}
+
+.div9{
+    width:1200px;
+    height: 320px;
+    background-color: rgb(255, 239, 242);
+}
+
+
+.div10{
+    position: relative;
+    left: 20px;
+    right: 1140px;
+    bottom: 921px;
+}
+
+.div11{
+    width:430px;
+    height: 320px;
+    background-color: rgb(240, 240, 240);
+}
+.btn1{
+    padding: 10px 50px;
+    background-color: inherit;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+
+.btn2{
+    padding: 10px 8px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    top: 100px;
+    right: 120px;
+}
+.h1111{
+    font-size: 35px;
+    color: rgb(221, 50, 161);
+    position: relative;
+    right: 160px;
+    top: 90px;
+    
+}
+
+.h5{
+    position: relative;
+    right: 205px;
+    top: 80px;
+
+}
+.h111{
+    position: relative;
+    right: 150px;
+    top: 60px;
+}
+
+.h11{
+    font-size: xx-large;
+    position: relative;
+    right: 210px;
+    top: 40px;
+}
+.div12{
+    width: 70px;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    left: 1199px;
+    top: 140px;
+}
+
+.img6{
+    width: 80px;
+    position: relative;
+    bottom: 5px;
+}
+
+.div13{
+    width: 70px;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    right: 1500px;
+    bottom: 1110px;
+
+}
+.img8{
+    width: 80px;
+    position: relative;
+}
+
+.div14{
+    position: relative;
+    width: 100%;
+    flex-shrink: 0;
+    position: relative;
+}
+.line{
+    position: relative;
+    bottom: 79px;
+    right: 100px;
+}
+
+.divline{
+    width: 1px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+}
+
+.divline1{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 43px;
+    right: 100px;
+}
+.divline2{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 86px;
+    right: 220px;
+}
+
+.divline3{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 130px;
+    right: 330px;
+}
+
+.divline4{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 174px;
+    right: 430px;
+}
+.divline5{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 220px;
+    right: 550px;
+}
+
+.divline6{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 264px;
+    right: 660px;
+}
+
+.divline7{
+    width: 1px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 304px;
+    right: 760px;
+}
+
+.divline8{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 348px;
+    right: 850px;
+}
+
+.divline9{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 392px;
+    right: 950px;
+}
+
+.divline10{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 432px;
+    right: 1050px;
+}
+
+.divline11{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 475px;
+    right: 1140px;
+}
+
+.divline12{
+    width: 2px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 518px;
+    right: 1252px;
+}
+
+.divline13{
+    width: 1px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+    position: relative;
+    bottom: 640px;
+    right: 1460px;
+}
+
+.div19{
+ width: 50px;
+ height: 2px;
+ background-color: rgb(203, 49, 160);
+ position: relative;
+ bottom: 930px;
+ right: 860px;
+ 
+}
+
+.div20{
+    width: 50px;
+    height: 2px;
+    background-color: rgb(184, 184, 184);
+    position: relative;
+    bottom: 931px;
+    right: 790px;
+}
+
+.div21{
+    width: 50px;
+    height: 2px;
+    background-color: rgb(184, 184, 184);
+    position: relative;
+    bottom: 933px;
+    right: 720px;
+}
+
+.di{
+    position: relative;
+    bottom:910px;
+    right: 1310px;
+}
+
+.btn3{
+    padding: 10px 10px;
+    background-color: rgb(245, 241, 241);
+    position: relative;
+    left: 5px;
+
+}
+
+.btn4{
+    padding: 10px 10px;
+    background-color: rgb(245, 241, 241);
+    
+}
+.di3{
+    width: 1420px;
+    height: 2px;
+    position: relative;
+    right: 140px;
+    bottom: 910px;
+    background-color: rgb(243, 238, 238);
+}
+.di4{
+    width: 100px;
+    height: 2px;
+    position: relative;
+    right: 1463px;
+    bottom: 912px;
+    background-color: rgb(203, 49, 160);
+    
+}
+
+.h11111{
+    font-size: 30px;
+    position: relative;
+    bottom: 870px;
+    right: 1500px;
+   font-weight: 600;
+}
+
+.h1a{
+    font-size: 30px;
+    position: relative;
+    bottom: 903px;
+    right: 950px;
+   font-weight: 600;   
+}
+.line1{
+    position: relative;
+    bottom: 950px;
+    right: 940px;
+    width: 1px;
+    height: 43px;
+    background-color:rgb(232, 228, 228);
+}
+
+.di5{
+    position: relative;
+    bottom: 986px;
+    right: 900px;
+    width: 300px;
+}
+
+.radio{
+    width: 30px;
+    height: 30px;
+}
+.rh1{
+    position: relative;
+    left: 40px;
+    bottom: 37px;
+    font-size: 23px;
+}
+.radio1{
+    position: relative;
+    bottom: 72px;
+    left: 90px;
+    width: 30px;
+    height: 30px;
+}
+.rh2{
+    position: relative;
+    left: 130px;
+    bottom: 110px;
+    font-size: 23px;
+}
+
+
+.di6{
+    position: relative;
+    right: 140px;
+    bottom: 1143px;
+}
+.btn5{
+    padding: 12px 10px;
+    padding-right:240px ;
+    border:  2px solid rgb(198, 195, 195);
+    border-radius: 5px;
+}
+
+.img9{
+    position: relative;
+    bottom: 37px;
+    right: 12px;
+}
+
+#dropdownMenu{
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    background: #eee;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.diinline{
+    width: 1100px;
+    height: 1px;
+    position: relative;
+    bottom: 1130px;
+    right: 128px;
+    background-color: rgb(232, 228, 228);
+}
+
+.divlineA{
+    width: 280px;
+    height: 1px;
+    position: relative;
+    bottom: 1160px;
+    right: 1300px;
+    background-color: rgb(232, 228, 228);
+    
+}
+
+.corner-left{
+    position: relative;
+    bottom: 1133px;
+    right: 1407px;
+}
+
+.ul2{
+    font-size: 25px;
+    font-weight: 600px;
+}
+
+.li3:nth-child(2){
+    position: relative;
+    right: 100px;
+}
+
+.li3:nth-child(3){
+    position: relative;
+    
+}
+
+.li3:nth-child(4){
+    position: relative;
+    right: 90px;
+}
+.li3:nth-child(5){
+    position: relative;
+    right: 27px;
+}
+.li3:nth-child(6){
+    position: relative;
+    left: 7px;
+}
+
+.li3:nth-child(7){
+    position: relative;
+    right: 33px;
+}
+
+
+.li3:nth-child(8){
+    position: relative;
+    right: 91px;
+}
+
+.im{
+    position: relative;
+    bottom: 30px;
+    left: 100px;
+}
+
+
+.im1{
+    position: relative;
+    bottom: 30px;
+    left: 200px;
+}
+.im2{
+    position: relative;
+    bottom: 30px;
+    left: 100px;
+}
+
+.im3{
+    position: relative;
+    bottom: 30px;
+    left: 190px;
+}
+.im4{
+    position: relative;
+    bottom: 30px;
+    left: 128px;
+}
+.im5{
+    position: relative;
+    bottom: 30px;
+    left: 96px;
+}
+
+.im6{
+    position: relative;
+    bottom: 30px;
+    left: 137px;
+}
+
+.im7{
+    position: relative;
+    bottom: 30px;
+    left: 196px;
+}
+
+
+.in-inline{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+}
+.div-inline{
+    position: relative;
+    bottom: 1575px;
+    right: 1300px;
+    
+}
+
+.in-inline1{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 55px;
+}
+.in-inline2{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 117px;
+}
+.in-inline3{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 170px;
+}
+.in-inline4{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 237px;
+}
+.in-inline5{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 293px;
+}
+
+
+.in-inline6{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 353px;
+}
+
+
+.in-inline7{
+    width: 280px;
+    height: 2px;
+    background-color: rgb(232, 228, 228);
+    position: relative;
+    top: 415px;
+}
+
+.info{
+    width: 350px;
+    height: 450px;
+   border: 2px solid rgb(232, 228, 228) ;
+}
+
+.info-mobail{
+    position: relative;
+    bottom: 1573px;
+    right: 900px;
+}
+
+.img-info{
+    position: relative;
+    bottom: 446px;
+    width: 35px;
+    right: 20px;
+}
+
+.btn-info{
+   width: 350px;
+   height: 40px;
+    background-color: rgba(254, 13, 178, 0.879);
+    color: white;
+    position: relative;
+    left: 2px;
+    bottom: 57px;
+    font-size: 20px;
+}
+
+.h1-info{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    right: 220px;
+    bottom: 40px;
+}
+
+.h1-info1{
+    font-size: 20px;
+    font-weight:600;
+    position: relative;
+    right: 140px;
+    bottom: 40px;
+}
+
+.h1-info2{
+    font-size: 20px;
+    font-weight:600; 
+    position: relative;
+    right: 200px;
+    bottom: 40px;  
+}
+.star{
+    width: 25px;
+    position: relative;
+    right: 320px;
+    bottom: 30px;
+}
+
+.star1{
+    width: 25px;
+    position: relative;
+    right: 290px;
+    bottom: 55px;
+}
+.star2{
+    width: 25px;
+    position: relative;
+    right: 260px;
+    bottom: 80px;
+}
+
+.star3{
+    width: 25px;
+    position: relative;
+    right: 230px;
+    bottom: 105px;
+}
+.star4{
+    width: 25px;
+    position: relative;
+    right: 200px;
+    bottom: 130px;
+}
+
+.h1-info3{
+        font-size: 20px;
+        color: rgb(129, 127, 127);
+        position: relative;
+        bottom: 155px;
+        right: 30px;
+}
+
+.h1-info4{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    bottom: 183px;
+    right: 78px;
+}
+
+.info1{
+    width: 350px;
+    height: 450px;
+   border: 2px solid rgb(232, 228, 228) ;
+   position: relative;
+   left: 360px;
+   bottom: 450px;
+}
+
+.btn-info1{
+    width: 350px;
+   height: 40px;
+    background-color: rgba(254, 13, 178, 0.879);
+    color: white;
+    position: relative;
+    left: 2px;
+    bottom: 57px;
+    font-size: 20px;   
+}
+
+.h1-info5{
+    font-size: 20px;
+    font-weight:600;
+    color: red;
+    position: relative;
+    right: 200px;
+    bottom: 40px;
+
+}
+
+.info2{
+    width: 350px;
+    height: 450px;
+   border: 2px solid rgb(232, 228, 228) ;
+   position: relative;
+   left: 720px;
+   bottom: 900px;
+}
+.info3{
+    width: 350px;
+    height: 480px;
+   border: 2px solid rgb(232, 228, 228) ;
+   position: relative;
+   left: 10px;
+   bottom: 650px;
+}
+
+.btn-info2{
+    position: relative;
+    width: 350px;
+    height: 40px;
+     background-color: rgba(254, 13, 178, 0.879);
+     color: white;
+     left: 2px;
+     bottom: 35px;
+     font-size: 20px;
+}
+
+.circle{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(84, 80, 80);
+    border-radius: 50%;
+    position: relative;
+    right: 320px;
+    bottom: 11px;
+
+}
+
+.circle1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(189, 158, 185);
+    border-radius: 50%;
+    position: relative;
+    right: 285px;
+    bottom: 41px;
+
+}
+
+.circle2{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(220, 214, 219);
+    border-radius: 50%;
+    position: relative;
+    right: 245px;
+    bottom: 71px;
+
+}
+.circle3{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(215, 16, 26);
+    border-radius: 50%;
+    position: relative;
+    right: 205px;
+    bottom: 101px;
+
+}
+.h1-info50{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    right: 160px;
+    bottom: 90px;
+}
+
+.h1-info51{
+    font-size: 20px;
+    font-weight:600;
+    position: relative;
+    right: 45px;
+    bottom: 80px
+}
+.h1-info52{
+    font-size: 20px;
+    font-weight:600; 
+    position: relative;
+    right: 150px;
+    bottom: 70px;
+}
+
+.star5{
+    width: 25px;
+    position: relative;
+    right: 320px;
+    bottom: 50px;
+}
+
+.star6{
+    width: 25px;
+    position: relative;
+    right: 290px;
+    bottom: 75px;
+}
+.star7{
+    width: 25px;
+    position: relative;
+    right: 260px;
+    bottom: 100px;
+}
+
+.star8{
+    width: 25px;
+    position: relative;
+    right: 230px;
+    bottom: 125px;
+}
+.star9{
+    width: 25px;
+    position: relative;
+    right: 200px;
+    bottom: 150px;
+}
+.h1-info54{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    bottom: 205px;
+    right: 20px;
+}
+
+.h1-info53{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    bottom: 175px;
+    left: 40px;
+}
+
+.info4{
+        width: 350px;
+        height: 470px;
+       border: 2px solid rgb(232, 228, 228) ;
+       position: relative;
+       left: 370px;
+       bottom: 1130px;
+}
+
+.h1-info55{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    right: 285px;
+    bottom: 30px;
+}
+
+.h1-info56{
+    font-size: 20px;
+    font-weight:600; 
+    position: relative;
+    right: 280px;
+    bottom: 20px;
+}
+
+.info5{
+    width: 350px;
+    height: 470px;
+   border: 2px solid rgb(232, 228, 228) ;
+   position: relative;
+   left: 730px;
+   bottom: 1600px;
+}
+.btn-info10{
+    width: 350px;
+    height: 40px;
+     background-color: rgba(254, 13, 178, 0.879);
+     color: white;
+     position: relative;
+     left: 2px;
+     bottom: 30px;
+     font-size: 20px
+}
+
+.h1-info57{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    right: 220px;
+    bottom: 10px
+}
+
+.h1-info58{
+    font-size: 20px;
+    font-weight:600;
+    position: relative;
+    right: 140px;
+    
+}
+
+.h1-info59{
+    font-size: 20px;
+    font-weight:600;
+    position: relative;
+    right: 200px;
+}
+.h1-info60{
+    font-size: 20px;
+    font-weight:600;
+    position: relative;
+    right: 200px;
+    color: rgb(251, 35, 35);
+    top: 10px;
+}
+
+.star10{
+    width: 25px;
+    position: relative;
+    right: 320px;
+    top: 30px;
+}
+.star11{
+    width: 25px;
+    position: relative;
+    right: 290px;
+    top: 5px;
+}
+.star12{
+    width: 25px;
+    position: relative;
+    right: 260px;
+  bottom: 20px;
+}
+.star13{
+    width: 25px;
+    position: relative;
+    right: 230px;
+  bottom: 45px;
+}
+
+.star14{
+    width: 25px;
+    position: relative;
+    right: 200px;
+  bottom: 70px;
+}
+.h1-info62{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    bottom: 123px;
+    right: 80px;
+}
+
+.h1-info61{
+    font-size: 20px;
+    color: rgb(129, 127, 127);
+    position: relative;
+    bottom: 95px;
+    right: 25px;
+}
+
+
+.in{
+    position: relative;
+    bottom: 2840px;
+    right: 1030px;
+}
+
+.h1{
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.radio2{
+    position: relative;
+    bottom: 25px;
+    left: 845px;
+    width: 30px;
+    height: 30px;
+    
+}
+
+.rh4{
+    position: relative;
+    left: 880px;
+    bottom: 135px;
+    font-size: 23px;
+}
+
+.radio3{
+    position: relative;
+    bottom: 97px;
+    left: 754px;
+    width: 30px;
+    height: 30px;
+    
+}
+
+.rh3{
+    position: relative;
+    left: 790px;
+    bottom: 62px;
+    font-size: 23px;
+}
+
+.nex{
+    position: relative;
+    bottom: 2950px;
+    left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
