@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+/* body{
+  background-color: rgb(237, 233, 233);
+} */
+
+
+body {
+  overflow-x: hidden;
+}
+
+.div-body{
+    background-image: url('./img/ChatGPT\ Image\ Oct\ 1\,\ 2025\,\ 10_20_26\ PM.png');
+    width: 100%;
+    height: 990px;
+    position: relative;
+  
+    
+    
+
+}
+
+ @keyframes spin-slow {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .animate-spin-slow {
+    animation: spin-slow 5s linear infinite;
+  }
+
+@media (max-width: 480px) {
+     
+     .div-body{
+       background-size: cover;      /* موبایل هم کل div را بپوشاند */
+        background-position: center;
+     }
+}
+
+/* 
+.Fewer-Missed .swiper{
+  margin: 0 !important;
+} */
+
+
+.div-cover {
+  background-image: url("/src/img/ChatGPT Image Nov 11, 2025, 03_24_58 PM.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 95%;
+  min-height: 100vh; /* تمام ارتفاع صفحه */
+  margin: 0 auto; /* برای وسط کردن افقی */
+  display: flex;
+  justify-content: center;
+  align-items: center; /* محتوای داخل div وسط */
+  margin-top: 100px;
+}
+
+
+
+@media (max-width: 480px) {
+     
+     .div-covery{
+       background-size: cover;      /* موبایل هم کل div را بپوشاند */
+        background-position: center;
+     }
+}
+
+
